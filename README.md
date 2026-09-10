@@ -1,34 +1,16 @@
-# Portfolio Profissional
+# Introduction to Git
 
-## Sobre o projeto
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Este repositório foi criado como parte da atividade de Design Profissional, com o objetivo de demonstrar conhecimentos práticos de Git e GitHub.
+Hey isaqueac080!
 
-O projeto também funciona como uma apresentação inicial do meu perfil acadêmico e profissional na área de tecnologia.
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
-## Objetivos
+Remember, it's self-paced so feel free to take a break! ☕️
 
-- Praticar o uso do Git e GitHub
-- Organizar um projeto utilizando controle de versão
-- Trabalhar com branches e commits
-- Demonstrar o uso de Pull Requests
-- Desenvolver uma base para um portfólio profissional
+[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/isaqueac080/skills-introduction-to-git/issues/1)
 
-## Tecnologias
+---
 
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
-## Estrutura do projeto
-
-```text
-portfolio-profissional/
-├── README.md
-└── src/
-    ├── index.html
-    ├── index.js
-    ├── patterns.js
-    └── style.css
